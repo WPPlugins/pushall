@@ -1,0 +1,292 @@
+# Translation of Development (trunk) in Russian
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-23 21:21+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.5\n"
+"Project-Id-Version: PushAll\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Oleg Tsvetkov <tsvetkov@net4all.ru>\n"
+"Language-Team: PushAll\n"
+"Language: ru_RU\n"
+
+#: includes/class-pushall-widget.php:75
+msgid "Type:"
+msgstr "Размер:"
+
+#: includes/class-pushall-widget.php:29
+msgid "PushAll subscription widget"
+msgstr "Подписка на уведомления в сервисе PushAll"
+
+#: includes/class-pushall-widget.php:79
+msgid "Normal (320px width)"
+msgstr "Маленький (ширина 320px)"
+
+#: includes/class-pushall-widget.php:80
+msgid "Medium (420px width)"
+msgstr "Средний (ширина 420px)"
+
+#: includes/class-pushall-logs-list.php:203
+msgid "Channel ID or/and Channel Key is missing"
+msgstr "Не указан ID или ключ канала"
+
+#: includes/class-pushall-logs-list.php:78
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-pushall-logs-list.php:115
+msgid "Date"
+msgstr "Дата"
+
+#: includes/class-pushall-logs-list.php:116
+msgid "Post title"
+msgstr ""
+
+#: includes/class-pushall-logs-list.php:117
+msgid "Push status"
+msgstr "Статус Push уведомления"
+
+#: includes/class-pushall-logs-list.php:139
+msgid "Select %s"
+msgstr ""
+
+#: includes/class-pushall-logs-list.php:169
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: includes/class-pushall-logs-list.php:180
+msgid "Unable to find post (ID: %s)"
+msgstr "Запись с ID %s не найдена"
+
+#: includes/class-pushall-logs-list.php:183
+#: includes/class-pushall-logs-list.php:239
+msgid "Edit this item"
+msgstr ""
+
+#: includes/class-pushall-logs-list.php:194
+msgid "Success (Subscribers: %d, Unfiltered: %d)"
+msgstr "Успешно (Подписчики: %d, Не под фильтром: %d)"
+
+#: includes/class-pushall-logs-list.php:196
+msgid "cURL error: %s"
+msgstr "Ошибка cURL: %s"
+
+#: includes/class-pushall-logs-list.php:200
+msgid "Bad PushAll credentials"
+msgstr "Некорректные ID или Ключ канала PushAll."
+
+#: includes/class-pushall-logs-list.php:206
+msgid "Same Push Notification was already send in the last 10 minutes"
+msgstr "Такое же Push уведомление уже было отправлено в последние 10 минут."
+
+#: includes/class-pushall-logs-list.php:209
+msgid "Too many Push Notifications was sent in the small amount of time"
+msgstr "Вы отправили слишком много Push уведомлений за короткий промежуток времени"
+
+#: includes/class-pushall-logs-list.php:216
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+#: includes/class-pushall-logs-list.php:239
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/class-pushall-logs-list.php:240
+msgid "View this item"
+msgstr "Перейти к этой записи"
+
+#: includes/class-pushall-logs-list.php:240
+msgid "View"
+msgstr "Смотреть"
+
+#: includes/class-pushall-logs-list.php:244
+msgid "Resend Push notification"
+msgstr "Отправить Push уведомление ещё раз"
+
+#: includes/class-pushall-logs-list.php:244
+msgid "Resend push"
+msgstr "Отправить пуш ещё раз"
+
+#: includes/class-pushall-wp-list-table.php:142
+msgid "List View"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:143
+msgid "Excerpt View"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:312
+msgid "No items found."
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:438
+msgid "Select bulk action"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:440
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:450
+msgid "Apply"
+msgstr "Принять"
+
+#: includes/class-pushall-wp-list-table.php:500
+#: includes/class-pushall-wp-list-table.php:1261
+msgid "Show more details"
+msgstr "Показать подробности"
+
+#: includes/class-pushall-wp-list-table.php:555
+msgid "Filter by date"
+msgstr "Фильтр по дате"
+
+#: includes/class-pushall-wp-list-table.php:557
+msgid "All dates"
+msgstr ""
+
+#. translators: 1: month name, 2: 4-digit year
+#: includes/class-pushall-wp-list-table.php:570
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:622
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-pushall-wp-list-table.php:623
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-pushall-wp-list-table.php:624
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-pushall-wp-list-table.php:629
+#: includes/class-pushall-wp-list-table.php:641
+msgid "No comments"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:641
+msgid "No approved comments"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:722
+#: includes/class-pushall-wp-list-table.php:1286
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-pushall-wp-list-table.php:757
+msgid "First page"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:767
+msgid "Previous page"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:774
+#: includes/class-pushall-wp-list-table.php:777
+msgid "Current Page"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:783
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:790
+msgid "Next page"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:800
+msgid "Last page"
+msgstr ""
+
+#: includes/class-pushall-wp-list-table.php:1010
+msgid "Select All"
+msgstr ""
+
+#: includes/class-pushall-admin.php:27
+msgid "Channel ID"
+msgstr "ID канала"
+
+#: includes/class-pushall-admin.php:28
+msgid "Channel Key"
+msgstr "Ключ канала"
+
+#: includes/class-pushall-admin.php:134
+msgid "To obtain a PushAll credentials go to <a href=\"https://pushall.ru\">PushAll.ru</a>"
+msgstr "Для получения ID и ключа канала посетите сайт  <a href=\"https://pushall.ru\">PushAll</a>."
+
+#: views/pushall-admin_logs_page.php:8
+msgid "PushAll logs"
+msgstr "Логи PushAll"
+
+#: views/pushall-admin_logs_page.php:8
+msgid "back to settings"
+msgstr "вернуться к настройкам"
+
+#: views/pushall-admin_menu_settings.php:2 views/pushall-post_meta_boxes.php:27
+msgid "PushAll integration settings"
+msgstr "Настройки интеграции с сервисом PushAll"
+
+#: views/pushall-admin_menu_settings.php:2
+msgid "watch logs"
+msgstr "перейти к логам"
+
+#: views/pushall-post_meta_boxes.php:14
+msgid "Send push?"
+msgstr "Отправить Push уведомление?"
+
+#: views/pushall-post_meta_boxes.php:18
+msgid "Custom title for Push title:"
+msgstr "Заголовок Push уведомления:"
+
+#: views/pushall-post_meta_boxes.php:19
+msgid "Enter the Push Notification title here, otherwise the post title will be used."
+msgstr "Если оставить это поле пустым, то будет использоваться заголовок записи."
+
+#: views/pushall-post_meta_boxes.php:22
+msgid "Custom title for Push message:"
+msgstr "Основной текст Push уведомления:"
+
+#: views/pushall-post_meta_boxes.php:23
+msgid "Enter the Push Notification message here, otherwise the post body will be used."
+msgstr "Если оставить это поле пустым, то будет использоваться тело записи."
+
+#: views/pushall-post_meta_boxes.php:27
+msgid "You need to <a href=\"%s\" title=\"%s\">configure PushAll module</a> to be able to send Push notifications about your post."
+msgstr "<a href=\"%s\" title=\"%s\">Настройте интеграцию с сервисом PushAll</a>, чтобы отправлять уведомления о публикации статей на вашем сайте."
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: includes/class-pushall-widget.php:27
+msgid "PushAll"
+msgstr "PushAll"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/pushall/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Send Push notifications from Wordpress via PushAll service"
+msgstr "Отправляйте моментальные уведомления читателям о выходе новых статей на вашем сайте используя PushAll."
+
+#. Author URI of the plugin/theme
+msgid "https://pushall.ru"
+msgstr ""

@@ -1,0 +1,8 @@
+#_pushall_custom_title,
+#_pushall_custom_message {
+    width: 99%;
+}
+
+#_pushall_custom_message {
+    min-height: 100px;
+}
